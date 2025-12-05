@@ -1,4 +1,4 @@
-# Hello welcome to my AOS C111 final project! <img align="right" width="220" height="520" src="/assets/IMG/Spdr_dark_rin.jpg">
+# Hello, and welcome to my AOS C111 final project! <img align="right" width="220" height="520" src="/assets/IMG/Spdr_dark_rin.jpg">
 ## Report
 
 ## [Data Set](https://www.kaggle.com/datasets/waqi786/usa-rainfall-prediction-dataset-2024-2025)
